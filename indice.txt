@@ -1,3 +1,5 @@
 Conflicto detectado en la validación de la base de datos.
 
-Errores varios detectados en código base.
+Errores varios detectados en el código de perfiles.
+
+Conflicto de archivos varios en base de datos.
