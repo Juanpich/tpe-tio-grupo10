@@ -1,1 +1,3 @@
 Conflicto detectado en la validación de la base de datos.
+
+Errores varios detectados en código base.
