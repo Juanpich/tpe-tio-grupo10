@@ -1,3 +1,9 @@
 Nuevo metodo de pago electronico Mercado Pago.
+<<<<<<< HEAD
 Crear una copia de la base de datos actual en la nueva.............
 
+=======
+
+Crear una copia de la base de datos actual en la nueva........
+Incorporar banco nacion y provincia
+>>>>>>> 7c2366e9da31f2449b059f16367d0a6ce8e1f00c
