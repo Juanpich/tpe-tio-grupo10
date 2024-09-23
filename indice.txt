@@ -1,0 +1,1 @@
+Conflicto detectado en la validación de la base de datos.
