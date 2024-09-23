@@ -1,0 +1,23 @@
+body{ 
+    background-color: gray;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+}
+#mainContainer{
+    color: cornflowerblue;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* Lista de navegacion*/
+#nav {
+    background-color: violet;
+    text-align: center;
+    border: solid black 2px;
+}
+
+/*menu hamburguesa*/
+@media (max-width: 120px){
+    
+}
