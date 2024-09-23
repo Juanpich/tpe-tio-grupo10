@@ -1,2 +1,3 @@
 En este apartado se van a dejar observaciones y recomendaciones para implementar en la pagina.
 Esta todo perfecto las clases bien nombradas y descriptivas
+nombrar bien los commits
