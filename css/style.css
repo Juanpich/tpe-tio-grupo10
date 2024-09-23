@@ -12,7 +12,9 @@ body{
 
 /* Lista de navegacion*/
 #nav {
-    background-color: cornsilk;
+    background-color: violet;
+    text-align: center;
+    border: solid black 2px;
 }
 
 /*menu hamburguesa*/
