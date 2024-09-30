@@ -1,2 +1,3 @@
 -- esta es la base de datos de la historial clinica
 -- se modifica para que sea mas flexible la base de datos
+-- modificado2;
