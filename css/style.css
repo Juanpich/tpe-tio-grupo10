@@ -17,6 +17,7 @@ body{
     background-color: violet;
     text-align: center;
     border: solid black 2px;
+    border-radius: 10px;
 }
 
 /*menu hamburguesa*/
