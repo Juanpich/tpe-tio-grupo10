@@ -2,7 +2,7 @@ body{
     background-color: green;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: medium;
-    margin: 20px;
+    margin: 40px;
 }
 #mainContainer{
     color: cornflowerblue;
@@ -17,6 +17,7 @@ body{
     background-color: violet;
     text-align: center;
     border: solid black 2px;
+    border-radius: 10px;
 }
 
 /*menu hamburguesa*/
