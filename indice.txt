@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 Conflicto detectado en la validación de la base de datos.
 
 Errores varios detectados en el código de perfiles.
 
 Conflicto de archivos varios en base de datos.
+=======
+Conflicto detectado en la validación de la base de datos.
+>>>>>>> parent of c4f166b (Errores varios detectados en perfiles de usuarios.)
