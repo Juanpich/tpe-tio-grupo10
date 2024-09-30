@@ -1,3 +1,8 @@
 En este apartado se van a dejar observaciones y recomendaciones para implementar en la pagina.
 Esta todo perfecto las clases bien nombradas y descriptivas
+nombre a los commits.
+rever modificaciones en base de datos.
+problemas varios detectados.
 nombrar bien los commits
+mantener el codigo limpio y ordenado 
+
