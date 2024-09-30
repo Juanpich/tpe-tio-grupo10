@@ -1,3 +1,4 @@
 Nuevo metodo de pago electronico Mercado Pago.
-Incorporar banco nacion y provincia
+Incorporar banco nacion y provincia.
+Incorporar todos los medios de pago.
 
